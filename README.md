@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi there, I'm Janani!
 
-<!--
-**Janani20-code/Janani20-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I’m currently learning *Python, SQL, and Excel* while exploring *data engineering tools* and preparing for interviews.  
+📚 I love working on projects that connect *Python with SQL* and handle *data processing tasks* like file imports and analysis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills & Tools
+
+- *Languages & Frameworks*: Python, SQL, MySQL, Django, HTML, CSS, JavaScript  
+- *Data Tools*: Pandas, Matplotlib, Excel  
+- *Others*: Git, GitHub, VS Code
+
+---
+
+### 🚀 Current Projects
+
+- 🔹 *Python + SQL Integration Project* – Automating database updates from CSV/Excel files.  
+- 🔹 *Tea Sales Management System* – A data management system using Python and MySQL.  
+- 🔹 *Password Encryption Tool* – Securing user input using getpass and Fernet encryption.
+
+---
+
+### 🎯 Goals
+
+💼 My goal is to *land a job in tech*, especially in data-related or backend roles.  
+✨ I'm also interested in building a *personal portfolio website* and would love any tips!
+
+---
+
+### 📬 Let's Connect
+
+- 📧 *Email: vjanani1120@gmail.com
+- 💼 [*LinkedIn](https://www.linkedin.com/in/jananiv20/)
+
+---
+
+### ☕ Fun Facts
+
+- I love organizing my time to stay productive  
+- I enjoy learning new tools and sharing what I learn with others!
+
+---
+
+> “The best way to learn is by doing and sharing!” 🚀
