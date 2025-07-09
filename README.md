@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Janani!
 
-🎯 I have hands-on experience in Python, SQL, and Excel, focusing on data analysis and preparing for data analyst opportunities.
-📚 I enjoy working on projects that connect Python with SQL to perform data cleaning, transformation, and business-focused analysis.
+   🎯 I have hands-on experience in Python, SQL, and Excel, focusing on data analysis and preparing for data analyst opportunities.
+   📚 I enjoy working on projects that connect Python with SQL to perform data cleaning, transformation, and business-focused analysis.
 
 ---
 
