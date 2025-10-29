@@ -10,7 +10,7 @@
 
 - *Languages & Frameworks*: Python, SQL, MySQL, Django, HTML, CSS, JavaScript  
 - *Data Tools*: Pandas, Numpy, Matplotlib, Excel, PowerBI
-- 
+  
 ---
 
 ### 🚀 Current Projects
